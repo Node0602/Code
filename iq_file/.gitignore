@@ -1,0 +1,7 @@
+*.iq
+level_*_capture*
+temp*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
